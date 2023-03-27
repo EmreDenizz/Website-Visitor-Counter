@@ -1,4 +1,7 @@
 <?php
+/**
+ * @author Emre Deniz <https://github.com/EmreDenizz>
+*/
 
 // Create counter.txt file and add these lines at the end of your website page
 $file = "counter.txt";
